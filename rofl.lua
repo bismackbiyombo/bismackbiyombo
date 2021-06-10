@@ -1,1 +1,1 @@
-warn("Hella gay")
+print("Hella gay")
