@@ -1,12 +1,3 @@
--- you can still refresh servers if need be
-_G.Run = true -- turn this off by changing true to false and refreshing servers
-_G.tosearch = {
-    ["Days"] = 2, -- change these according to what you need
-    ["Hours"] = 5,
-    ["Minutes"] = 0
-}
-
-
 --nothing in here has to be touched im lazy
 function search()
     -- if you're wondering why I didn't just add the visible line with the rest of the script don't ask i'm lazy
