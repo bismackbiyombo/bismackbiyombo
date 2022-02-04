@@ -31,6 +31,7 @@ function search()
     end
 end
 
+search()
 game:GetService("Players").LocalPlayer.PlayerGui.LoadingGui.Overlay.ServerFrame.Servers.Changed:Connect(function()
     search()
 end)
